@@ -1,0 +1,7 @@
+{
+  "name": "CAMate Pro - CA Management & Automation Platform",
+  "description": "A professional platform for Chartered Accountants and their clients to manage file uploads, data validation, and automation processing with role-based access control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
